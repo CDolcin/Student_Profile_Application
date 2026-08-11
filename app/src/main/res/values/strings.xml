@@ -1,3 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Student_Profile_Application</string>
+    <!-- App and Section Headers -->
+    <string name="app_name">Student Profile Application</string>
+    <string name="profile_title">Student Profile</string>
+    <string name="academic_info_header">Manage your academic information</string>
+    <string name="personal_academic_details">Personal &amp; Academic Details</string>
+
+    <!-- Field Labels and Hints -->
+    <string name="label_full_name">Full Name</string>
+    <string name="hint_full_name">Enter your full name</string>
+
+    <string name="label_student_id">Student ID</string>
+    <string name="hint_student_id">Enter your student ID</string>
+
+    <string name="label_programme">Programme</string>
+    <string name="hint_programme">e.g. BSc in Computer Science</string>
+
+    <string name="label_department">Department</string>
+    <string name="hint_department">Enter your department</string>
+
+    <string name="label_semester">Semester</string>
+    <string name="hint_semester">e.g. Semester 4</string>
+
+    <string name="label_email">Email Address</string>
+    <string name="hint_email">Enter your email address</string>
+
+    <string name="label_phone">Phone Number</string>
+    <string name="hint_phone">Enter your phone number</string>
+
+    <!-- Content Descriptions -->
+    <string name="desc_profile_picture">Student profile picture</string>
+    <string name="desc_add_picture">Add Your Picture</string>
+
+    <!-- Action Buttons -->
+    <string name="btn_save">Save</string>
+    <string name="btn_clear">Clear</string>
+    <string name="btn_edit">Edit</string>
 </resources>
