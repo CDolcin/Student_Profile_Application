@@ -1,39 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- App and Section Headers -->
+
+    <!-- App -->
     <string name="app_name">Student Profile Application</string>
-    <string name="profile_title">Student Profile</string>
-    <string name="academic_info_header">Manage your academic information</string>
+    <string name="student_profile">Student Profile</string>
+    <string name="academic_profile">Academic Profile</string>
+
+    <!-- Header -->
+    <string name="hello_everyone">Hello Everyone!</string>
+    <string name="welcome_profile">Welcome to my profile</string>
+    <string name="academic_year">Academic Year: 2026</string>
+    <string name="add_picture">Add Picture</string>
+    <string name="profile_picture">Profile Picture</string>
+
+    <!-- Section -->
     <string name="personal_academic_details">Personal &amp; Academic Details</string>
 
-    <!-- Field Labels and Hints -->
-    <string name="label_full_name">Full Name</string>
-    <string name="hint_full_name">Enter your full name</string>
+    <!-- Labels -->
+    <string name="full_name">Full Name</string>
+    <string name="student_id">Student ID</string>
+    <string name="programme">Programme</string>
+    <string name="semester">Semester</string>
+    <string name="department">Department</string>
+    <string name="email_address">Email Address</string>
+    <string name="phone_number">Phone Number</string>
 
-    <string name="label_student_id">Student ID</string>
-    <string name="hint_student_id">Enter your student ID</string>
+    <!-- Student Information -->
+    <string name="student_name_value">Chimi Dawa Selden</string>
+    <string name="student_id_value">02240149</string>
+    <string name="programme_value">Bachelor of Engineering in Information Technology</string>
+    <string name="semester_value">Semester 6</string>
+    <string name="department_value">Information Technology</string>
+    <string name="email_value">selden546@gmail.com</string>
+    <string name="phone_value">+975 17XXXX84</string>
 
-    <string name="label_programme">Programme</string>
-    <string name="hint_programme">e.g. BSc in Computer Science</string>
+    <!-- Buttons -->
+    <string name="edit">Edit</string>
+    <string name="save">Save</string>
+    <string name="clear">Clear</string>
 
-    <string name="label_department">Department</string>
-    <string name="hint_department">Enter your department</string>
+    <!-- Toast messages -->
+    <string name="profile_picture_upload">Profile picture upload function triggered</string>
+    <string name="profile_saved">Student profile saved successfully</string>
+    <string name="profile_cleared">Profile information cleared</string>
+    <string name="edit_clicked">Edit button clicked</string>
 
-    <string name="label_semester">Semester</string>
-    <string name="hint_semester">e.g. Semester 4</string>
-
-    <string name="label_email">Email Address</string>
-    <string name="hint_email">Enter your email address</string>
-
-    <string name="label_phone">Phone Number</string>
-    <string name="hint_phone">Enter your phone number</string>
-
-    <!-- Content Descriptions -->
-    <string name="desc_profile_picture">Student profile picture</string>
-    <string name="desc_add_picture">Add Your Picture</string>
-
-    <!-- Action Buttons -->
-    <string name="btn_save">Save</string>
-    <string name="btn_clear">Clear</string>
-    <string name="btn_edit">Edit</string>
 </resources>
